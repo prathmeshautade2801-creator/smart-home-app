@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+speechrecognition
+pyttsx3
+streamlit-autorefresh
